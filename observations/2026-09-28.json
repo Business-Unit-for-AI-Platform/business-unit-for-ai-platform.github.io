@@ -2,7 +2,7 @@
   "schema_version": 1,
   "domain": "ai-computer",
   "date": "2026-09-28",
-  "updated_at": "2026-09-28T08:38:36+08:00",
+  "updated_at": "2026-09-28T09:07:42+08:00",
   "observations": [
     {
       "id": "etf-510300",
@@ -15,7 +15,7 @@
       "publisher": "Eastmoney via AKShare",
       "status": "fetch_failed",
       "data_date": null,
-      "checked_at": "2026-09-28T08:38:18+08:00",
+      "checked_at": "2026-09-28T09:07:22+08:00",
       "source_url": "https://quote.eastmoney.com/",
       "values": {}
     },
@@ -30,7 +30,7 @@
       "publisher": "Eastmoney via AKShare",
       "status": "fetch_failed",
       "data_date": null,
-      "checked_at": "2026-09-28T08:38:18+08:00",
+      "checked_at": "2026-09-28T09:07:22+08:00",
       "source_url": "https://quote.eastmoney.com/",
       "values": {}
     },
@@ -45,7 +45,7 @@
       "publisher": "Eastmoney via AKShare",
       "status": "fetch_failed",
       "data_date": null,
-      "checked_at": "2026-09-28T08:38:18+08:00",
+      "checked_at": "2026-09-28T09:07:22+08:00",
       "source_url": "https://quote.eastmoney.com/",
       "values": {}
     }
