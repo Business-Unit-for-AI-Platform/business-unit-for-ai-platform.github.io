@@ -2,7 +2,7 @@
   "schema_version": 1,
   "domain": "ai-computer",
   "date": "2026-09-28",
-  "updated_at": "2026-09-28T09:07:42+08:00",
+  "updated_at": "2026-09-28T14:18:51+08:00",
   "observations": [
     {
       "id": "etf-510300",
@@ -13,11 +13,18 @@
       "benchmark": true,
       "provider": "akshare",
       "publisher": "Eastmoney via AKShare",
-      "status": "fetch_failed",
-      "data_date": null,
-      "checked_at": "2026-09-28T09:07:22+08:00",
+      "status": "ok",
+      "data_date": "2026-09-28",
+      "checked_at": "2026-09-28T14:18:34+08:00",
       "source_url": "https://quote.eastmoney.com/",
-      "values": {}
+      "values": {
+        "close": "4.426",
+        "change_1d_pct": "-1.97",
+        "volume": "8180933",
+        "amount": "3629758361.0",
+        "change_5d_pct": "-3.40",
+        "change_20d_pct": "-5.41"
+      }
     },
     {
       "id": "etf-512480",
@@ -30,7 +37,7 @@
       "publisher": "Eastmoney via AKShare",
       "status": "fetch_failed",
       "data_date": null,
-      "checked_at": "2026-09-28T09:07:22+08:00",
+      "checked_at": "2026-09-28T14:18:34+08:00",
       "source_url": "https://quote.eastmoney.com/",
       "values": {}
     },
@@ -45,7 +52,7 @@
       "publisher": "Eastmoney via AKShare",
       "status": "fetch_failed",
       "data_date": null,
-      "checked_at": "2026-09-28T09:07:22+08:00",
+      "checked_at": "2026-09-28T14:18:34+08:00",
       "source_url": "https://quote.eastmoney.com/",
       "values": {}
     }
