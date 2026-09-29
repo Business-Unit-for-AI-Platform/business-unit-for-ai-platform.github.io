@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "domain": "ai-computer",
+  "date": "2026-09-29",
+  "updated_at": "2026-09-29T14:34:42+08:00",
+  "observations": [
+    {
+      "id": "etf-510300",
+      "group": "etf",
+      "name": "华泰柏瑞沪深300ETF",
+      "code": "510300",
+      "theme": "宽基参照",
+      "benchmark": true,
+      "provider": "akshare",
+      "publisher": "Sina Finance via AKShare",
+      "status": "not_published",
+      "data_date": "2026-09-28",
+      "checked_at": "2026-09-29T14:34:27+08:00",
+      "source_url": "https://finance.sina.com.cn/fund/quotes/510300/bc.shtml",
+      "values": {
+        "close": "4.417",
+        "change_1d_pct": "-2.17",
+        "volume": "986408900",
+        "amount": "4373095288",
+        "change_5d_pct": "-3.60",
+        "change_20d_pct": "-5.60"
+      }
+    },
+    {
+      "id": "etf-512480",
+      "group": "etf",
+      "name": "国联安半导体ETF",
+      "code": "512480",
+      "theme": "半导体",
+      "benchmark": false,
+      "provider": "akshare",
+      "publisher": "Sina Finance via AKShare",
+      "status": "not_published",
+      "data_date": "2026-09-28",
+      "checked_at": "2026-09-29T14:34:27+08:00",
+      "source_url": "https://finance.sina.com.cn/fund/quotes/512480/bc.shtml",
+      "values": {
+        "close": "0.98",
+        "change_1d_pct": "-4.20",
+        "volume": "1143519751",
+        "amount": "1133676175",
+        "change_5d_pct": "-5.86",
+        "change_20d_pct": "-5.68",
+        "excess_5d_pp": "-2.26",
+        "excess_20d_pp": "-0.08"
+      }
+    },
+    {
+      "id": "etf-512720",
+      "group": "etf",
+      "name": "国泰中证计算机主题ETF",
+      "code": "512720",
+      "theme": "计算机",
+      "benchmark": false,
+      "provider": "akshare",
+      "publisher": "Sina Finance via AKShare",
+      "status": "not_published",
+      "data_date": "2026-09-28",
+      "checked_at": "2026-09-29T14:34:27+08:00",
+      "source_url": "https://finance.sina.com.cn/fund/quotes/512720/bc.shtml",
+      "values": {
+        "close": "1.086",
+        "change_1d_pct": "-3.12",
+        "volume": "21179800",
+        "amount": "23188673",
+        "change_5d_pct": "-4.23",
+        "change_20d_pct": "-7.34",
+        "excess_5d_pp": "-0.63",
+        "excess_20d_pp": "-1.74"
+      }
+    }
+  ],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 0,
+    "chain_stages": [],
+    "application_scenarios": [],
+    "technology_tags": [],
+    "event_types": [],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 0,
+    "headlines": []
+  }
+}
