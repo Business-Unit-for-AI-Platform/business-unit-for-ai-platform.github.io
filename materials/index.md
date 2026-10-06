@@ -8,6 +8,7 @@ title: AI 与计算机资料库
 
 ## 人工智能
 
+- [ReviewBench: An open benchmark for AI code review](items/6f397884428e9f0f14f3.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [GitHub Copilot app for Beginners: How to build custom workflows with canvases](items/a2908e03cf24041e9ff5.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [When chat is the wrong UI](items/3d14844898469c56a41e.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [Migrating the GitHub Copilot runtime to Rust, using Copilot](items/02ea023ead6b345ea5fc.html) | 标签：GitHub · 软件开发 · 开发者生态

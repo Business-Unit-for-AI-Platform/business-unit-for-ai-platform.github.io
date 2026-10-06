@@ -51,6 +51,11 @@
       "started_at": "2026-10-05T14:32:48+08:00",
       "finished_at": "2026-10-05T14:33:01+08:00",
       "scan_count": 1
+    },
+    "2026-10-06": {
+      "started_at": "2026-10-06T15:10:29+08:00",
+      "finished_at": "2026-10-06T15:10:49+08:00",
+      "scan_count": 1
     }
   },
   "articles": {
@@ -309,6 +314,117 @@
       "updated_at": "2026-09-28T14:18:51+08:00",
       "first_collected_on": "2026-09-28",
       "intelligence": null
+    },
+    "6f397884428e9f0f14f3": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "publisher": "GitHub",
+      "kind": "company",
+      "published_date": "2026-10-05",
+      "topics": [
+        "人工智能",
+        "软件开发",
+        "开发者生态"
+      ],
+      "excerpt": "Agentic code review is becoming an essential piece of how development happens. It helps you inspect pull requests, catch issues, and decide what deserves attention before code ships. But the quality of existing AI reviewers can be hard to measure, and you need [截断摘录，请核对原文]",
+      "updated_at": "2026-10-06T15:10:49+08:00",
+      "first_collected_on": "2026-10-06",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "ai-computer",
+        "event_types": [
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "partnership",
+          "label": "合作与生态"
+        },
+        "chain_stages": [
+          {
+            "id": "platform-tools",
+            "label": "平台与开发工具"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "ai-agent",
+            "label": "智能体"
+          },
+          {
+            "id": "software-engineering",
+            "label": "软件工程与开发者生态"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "software-development",
+            "label": "软件开发与办公"
+          }
+        ],
+        "entities": [
+          {
+            "id": "microsoft",
+            "label": "微软",
+            "entity_type": "company"
+          },
+          {
+            "id": "github",
+            "label": "GitHub",
+            "entity_type": "platform"
+          }
+        ],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "platform-tools",
+            "object_label": "平台与开发工具"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "software-development",
+            "object_label": "软件开发与办公"
+          },
+          {
+            "subject_type": "entity",
+            "subject_ref": "microsoft",
+            "predicate": "appears_in",
+            "object_type": "article",
+            "object_id": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+            "object_label": "ReviewBench: An open benchmark for AI code review"
+          },
+          {
+            "subject_type": "entity",
+            "subject_ref": "github",
+            "predicate": "appears_in",
+            "object_type": "article",
+            "object_id": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+            "object_label": "ReviewBench: An open benchmark for AI code review"
+          }
+        ],
+        "evidence": {
+          "level": "企业公开内容",
+          "source_kind": "company",
+          "published_date": "2026-10-05",
+          "has_quantified_claim": true
+        }
+      }
     }
   }
 }
