@@ -3,78 +3,7 @@
   "domain": "ai-computer",
   "date": "2026-09-30",
   "updated_at": "2026-09-30T14:17:35+08:00",
-  "observations": [
-    {
-      "id": "etf-510300",
-      "group": "etf",
-      "name": "华泰柏瑞沪深300ETF",
-      "code": "510300",
-      "theme": "宽基参照",
-      "benchmark": true,
-      "provider": "akshare",
-      "publisher": "Eastmoney via AKShare",
-      "status": "ok",
-      "data_date": "2026-09-30",
-      "checked_at": "2026-09-30T14:17:22+08:00",
-      "source_url": "https://quote.eastmoney.com/",
-      "values": {
-        "close": "4.433",
-        "change_1d_pct": "0.38",
-        "volume": "3866268",
-        "amount": "1712136282.0",
-        "change_5d_pct": "-3.90",
-        "change_20d_pct": "-5.36"
-      }
-    },
-    {
-      "id": "etf-512480",
-      "group": "etf",
-      "name": "国联安半导体ETF",
-      "code": "512480",
-      "theme": "半导体",
-      "benchmark": false,
-      "provider": "akshare",
-      "publisher": "Eastmoney via AKShare",
-      "status": "ok",
-      "data_date": "2026-09-30",
-      "checked_at": "2026-09-30T14:17:22+08:00",
-      "source_url": "https://quote.eastmoney.com/",
-      "values": {
-        "close": "0.955",
-        "change_1d_pct": "-3.05",
-        "volume": "9735355",
-        "amount": "941877050.0",
-        "change_5d_pct": "-9.13",
-        "change_20d_pct": "-7.28",
-        "excess_5d_pp": "-5.23",
-        "excess_20d_pp": "-1.92"
-      }
-    },
-    {
-      "id": "etf-512720",
-      "group": "etf",
-      "name": "国泰中证计算机主题ETF",
-      "code": "512720",
-      "theme": "计算机",
-      "benchmark": false,
-      "provider": "akshare",
-      "publisher": "Eastmoney via AKShare",
-      "status": "ok",
-      "data_date": "2026-09-30",
-      "checked_at": "2026-09-30T14:17:22+08:00",
-      "source_url": "https://quote.eastmoney.com/",
-      "values": {
-        "close": "1.085",
-        "change_1d_pct": "-0.55",
-        "volume": "166310",
-        "amount": "18080567.0",
-        "change_5d_pct": "-6.06",
-        "change_20d_pct": "-9.36",
-        "excess_5d_pp": "-2.16",
-        "excess_20d_pp": "-4.00"
-      }
-    }
-  ],
+  "observations": [],
   "industry_signals": {
     "schema_version": 1,
     "article_count": 0,
