@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "domain": "ai-computer",
+  "date": "2026-10-08",
+  "updated_at": "2026-10-08T14:59:28+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "platform-tools",
+        "label": "平台与开发工具",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Secret protection must scale with software",
+            "published_date": "2026-10-07",
+            "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "software-development",
+        "label": "软件开发与办公",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Secret protection must scale with software",
+            "published_date": "2026-10-07",
+            "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "ai-agent",
+        "label": "智能体",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Secret protection must scale with software",
+            "published_date": "2026-10-07",
+            "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"
+          }
+        ]
+      },
+      {
+        "id": "software-engineering",
+        "label": "软件工程与开发者生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Secret protection must scale with software",
+            "published_date": "2026-10-07",
+            "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Secret protection must scale with software",
+            "published_date": "2026-10-07",
+            "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "github",
+        "label": "GitHub",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Secret protection must scale with software",
+            "published_date": "2026-10-07",
+            "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"
+          }
+        ]
+      },
+      {
+        "id": "openai",
+        "label": "OpenAI",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Secret protection must scale with software",
+            "published_date": "2026-10-07",
+            "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"
+          }
+        ]
+      },
+      {
+        "id": "microsoft",
+        "label": "微软",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Secret protection must scale with software",
+            "published_date": "2026-10-07",
+            "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"
+          }
+        ]
+      }
+    ]
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "Secret protection must scale with software",
+        "publisher": "GitHub",
+        "published_date": "2026-10-07",
+        "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+        "excerpt": "Today, one in three pull requests on GitHub involves an AI agent . A year ago, that number was fewer than one in 10. If that pace holds, within the next two years, most of the code pushed to GitHub could be written by an agent. Much of it may never be fully re [截断摘录，请核对原文]"
+      }
+    ]
+  }
+}

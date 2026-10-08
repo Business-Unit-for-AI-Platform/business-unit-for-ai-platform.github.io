@@ -8,6 +8,7 @@ title: AI 与计算机资料库
 
 ## 人工智能
 
+- [Secret protection must scale with software](items/c6fb2b313984d9d24e98.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [ReviewBench: An open benchmark for AI code review](items/6f397884428e9f0f14f3.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [GitHub Copilot app for Beginners: How to build custom workflows with canvases](items/a2908e03cf24041e9ff5.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [When chat is the wrong UI](items/3d14844898469c56a41e.html) | 标签：GitHub · 软件开发 · 开发者生态

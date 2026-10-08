@@ -61,6 +61,11 @@
       "started_at": "2026-10-07T14:50:24+08:00",
       "finished_at": "2026-10-07T14:50:31+08:00",
       "scan_count": 1
+    },
+    "2026-10-08": {
+      "started_at": "2026-10-08T14:59:18+08:00",
+      "finished_at": "2026-10-08T14:59:28+08:00",
+      "scan_count": 1
     }
   },
   "articles": {
@@ -427,6 +432,130 @@
           "level": "企业公开内容",
           "source_kind": "company",
           "published_date": "2026-10-05",
+          "has_quantified_claim": true
+        }
+      }
+    },
+    "c6fb2b313984d9d24e98": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+      "title": "Secret protection must scale with software",
+      "publisher": "GitHub",
+      "kind": "company",
+      "published_date": "2026-10-07",
+      "topics": [
+        "人工智能",
+        "软件开发",
+        "开发者生态"
+      ],
+      "excerpt": "Today, one in three pull requests on GitHub involves an AI agent . A year ago, that number was fewer than one in 10. If that pace holds, within the next two years, most of the code pushed to GitHub could be written by an agent. Much of it may never be fully re [截断摘录，请核对原文]",
+      "updated_at": "2026-10-08T14:59:28+08:00",
+      "first_collected_on": "2026-10-08",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "ai-computer",
+        "event_types": [
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "partnership",
+          "label": "合作与生态"
+        },
+        "chain_stages": [
+          {
+            "id": "platform-tools",
+            "label": "平台与开发工具"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "ai-agent",
+            "label": "智能体"
+          },
+          {
+            "id": "software-engineering",
+            "label": "软件工程与开发者生态"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "software-development",
+            "label": "软件开发与办公"
+          }
+        ],
+        "entities": [
+          {
+            "id": "openai",
+            "label": "OpenAI",
+            "entity_type": "company"
+          },
+          {
+            "id": "microsoft",
+            "label": "微软",
+            "entity_type": "company"
+          },
+          {
+            "id": "github",
+            "label": "GitHub",
+            "entity_type": "platform"
+          }
+        ],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "platform-tools",
+            "object_label": "平台与开发工具"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "software-development",
+            "object_label": "软件开发与办公"
+          },
+          {
+            "subject_type": "entity",
+            "subject_ref": "openai",
+            "predicate": "appears_in",
+            "object_type": "article",
+            "object_id": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+            "object_label": "Secret protection must scale with software"
+          },
+          {
+            "subject_type": "entity",
+            "subject_ref": "microsoft",
+            "predicate": "appears_in",
+            "object_type": "article",
+            "object_id": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+            "object_label": "Secret protection must scale with software"
+          },
+          {
+            "subject_type": "entity",
+            "subject_ref": "github",
+            "predicate": "appears_in",
+            "object_type": "article",
+            "object_id": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+            "object_label": "Secret protection must scale with software"
+          }
+        ],
+        "evidence": {
+          "level": "企业公开内容",
+          "source_kind": "company",
+          "published_date": "2026-10-07",
           "has_quantified_claim": true
         }
       }
