@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "domain": "ai-computer",
+  "date": "2026-10-09",
+  "updated_at": "2026-10-09T15:07:46+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 0,
+    "chain_stages": [],
+    "application_scenarios": [],
+    "technology_tags": [],
+    "event_types": [],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 0,
+    "headlines": []
+  }
+}
