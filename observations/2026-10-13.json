@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "domain": "ai-computer",
+  "date": "2026-10-13",
+  "updated_at": "2026-10-13T15:20:48+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "platform-tools",
+        "label": "平台与开发工具",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+            "published_date": "2026-10-12",
+            "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "software-development",
+        "label": "软件开发与办公",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+            "published_date": "2026-10-12",
+            "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "ai-agent",
+        "label": "智能体",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+            "published_date": "2026-10-12",
+            "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"
+          }
+        ]
+      },
+      {
+        "id": "software-engineering",
+        "label": "软件工程与开发者生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+            "published_date": "2026-10-12",
+            "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+            "published_date": "2026-10-12",
+            "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "github",
+        "label": "GitHub",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+            "published_date": "2026-10-12",
+            "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"
+          }
+        ]
+      }
+    ]
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+        "publisher": "GitHub",
+        "published_date": "2026-10-12",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+        "excerpt": "Context matters when you’re working with AI. Every codebase has its own house rules: how components are structured, which scripts to run, and which conventions apply to different frameworks and file types. Copilot can help you make changes across a project, bu [截断摘录，请核对原文]"
+      }
+    ]
+  }
+}
