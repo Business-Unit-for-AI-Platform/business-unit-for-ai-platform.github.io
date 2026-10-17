@@ -106,6 +106,11 @@
       "started_at": "2026-10-16T13:26:05+08:00",
       "finished_at": "2026-10-16T13:26:13+08:00",
       "scan_count": 1
+    },
+    "2026-10-17": {
+      "started_at": "2026-10-17T13:18:49+08:00",
+      "finished_at": "2026-10-17T13:18:59+08:00",
+      "scan_count": 1
     }
   },
   "articles": {
@@ -694,6 +699,134 @@
           "level": "企业公开内容",
           "source_kind": "company",
           "published_date": "2026-10-12",
+          "has_quantified_claim": false
+        }
+      }
+    },
+    "cda45bfb7122792149c9": {
+      "url": "https://www.cas.cn/syky/202609/t20260920_5120651.shtml",
+      "title": "科研人员提出基于生成式人工智能的跨望远镜图像预测方法",
+      "publisher": "中国科学院",
+      "kind": "research",
+      "published_date": "2026-10-16",
+      "topics": [
+        "人工智能",
+        "计算机科学",
+        "科研进展"
+      ],
+      "excerpt": "星系的结构参数（如大小、形状与表面亮度分布）为研究星系形成与演化相关物理过程提供观测约束。这些过程的综合影响可体现在“恒星质量—大小”等标度关系中。准确测量不同质量和大小星系的结构参数，并考虑致密星系与矮星系等群体的测量偏差，是理解星系结构演化的重要前提。DESI亮星系巡天（BGS）及图像遗产巡天测光数据提供了海量低红移星系测光数据及光谱样本，但约四分之一的BGS星系受点扩散函数（PSF）限制，结构分辨不足。在这一尺度范围内，结构参数测量易出现与星系大小相关的系统性偏差，进而干扰星系群体演化的判断。 [摘录，详见原文]",
+      "updated_at": "2026-10-17T13:18:59+08:00",
+      "first_collected_on": "2026-10-17",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "ai-computer",
+        "event_types": [
+          {
+            "id": "policy",
+            "label": "政策与监管"
+          },
+          {
+            "id": "research",
+            "label": "研究与技术进展"
+          },
+          {
+            "id": "product",
+            "label": "产品与模型发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "policy",
+          "label": "政策与监管"
+        },
+        "chain_stages": [
+          {
+            "id": "models-algorithms",
+            "label": "模型与算法"
+          },
+          {
+            "id": "data-infrastructure",
+            "label": "数据与基础设施"
+          },
+          {
+            "id": "system-integration",
+            "label": "系统集成与解决方案"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "generative-ai",
+            "label": "生成式人工智能"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "research-education",
+            "label": "科研与教育"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cas.cn/syky/202609/t20260920_5120651.shtml",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "policy",
+            "object_label": "政策与监管"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cas.cn/syky/202609/t20260920_5120651.shtml",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与技术进展"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cas.cn/syky/202609/t20260920_5120651.shtml",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "产品与模型发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cas.cn/syky/202609/t20260920_5120651.shtml",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "models-algorithms",
+            "object_label": "模型与算法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cas.cn/syky/202609/t20260920_5120651.shtml",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "data-infrastructure",
+            "object_label": "数据与基础设施"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cas.cn/syky/202609/t20260920_5120651.shtml",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "system-integration",
+            "object_label": "系统集成与解决方案"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cas.cn/syky/202609/t20260920_5120651.shtml",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "research-education",
+            "object_label": "科研与教育"
+          }
+        ],
+        "evidence": {
+          "level": "研究机构发布",
+          "source_kind": "research",
+          "published_date": "2026-10-16",
           "has_quantified_claim": false
         }
       }
