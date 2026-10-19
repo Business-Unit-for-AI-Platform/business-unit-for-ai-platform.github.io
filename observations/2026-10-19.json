@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "domain": "ai-computer",
+  "date": "2026-10-19",
+  "updated_at": "2026-10-19T13:42:57+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "models-algorithms",
+        "label": "模型与算法",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "科学家揭示认知灵活性的树突计算机制",
+            "published_date": "2026-10-19",
+            "url": "https://www.cas.cn/syky/202610/t20261016_5122361.shtml"
+          }
+        ]
+      },
+      {
+        "id": "system-integration",
+        "label": "系统集成与解决方案",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "科学家揭示认知灵活性的树突计算机制",
+            "published_date": "2026-10-19",
+            "url": "https://www.cas.cn/syky/202610/t20261016_5122361.shtml"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "research-education",
+        "label": "科研与教育",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "科学家揭示认知灵活性的树突计算机制",
+            "published_date": "2026-10-19",
+            "url": "https://www.cas.cn/syky/202610/t20261016_5122361.shtml"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [],
+    "event_types": [
+      {
+        "id": "product",
+        "label": "产品与模型发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "科学家揭示认知灵活性的树突计算机制",
+            "published_date": "2026-10-19",
+            "url": "https://www.cas.cn/syky/202610/t20261016_5122361.shtml"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与技术进展",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "科学家揭示认知灵活性的树突计算机制",
+            "published_date": "2026-10-19",
+            "url": "https://www.cas.cn/syky/202610/t20261016_5122361.shtml"
+          }
+        ]
+      }
+    ],
+    "entities": []
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "科学家揭示认知灵活性的树突计算机制",
+        "publisher": "中国科学院",
+        "published_date": "2026-10-19",
+        "url": "https://www.cas.cn/syky/202610/t20261016_5122361.shtml",
+        "excerpt": "神经元究竟如何处理信息，让大脑产生灵活决策，一直是未解的谜题。 近期，中国科学院脑科学与智能技术卓越创新中心发现了大脑皮层神经元树突计算参与灵活决策中的认知计算过程，填补了树突计算与高级认知功能之间长期缺乏的证据空白。 大脑里的神经元长着很多像树枝一样的分支，也就是树突。 此前研究发现，顶端树突能激活、汇总信号，但一直没有直接证据证明树突能参与认知过程。 迄今为止，多数研究把神经元视为一个均一的“点”或“简单求和单元”，只通过发放率（放电快慢）来描述它的活动。 [摘录，详见原文]"
+      }
+    ]
+  }
+}

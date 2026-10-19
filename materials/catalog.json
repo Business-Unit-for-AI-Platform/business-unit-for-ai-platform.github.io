@@ -116,6 +116,11 @@
       "started_at": "2026-10-18T13:25:01+08:00",
       "finished_at": "2026-10-18T13:25:08+08:00",
       "scan_count": 1
+    },
+    "2026-10-19": {
+      "started_at": "2026-10-19T13:42:47+08:00",
+      "finished_at": "2026-10-19T13:42:57+08:00",
+      "scan_count": 1
     }
   },
   "articles": {
@@ -832,6 +837,105 @@
           "level": "研究机构发布",
           "source_kind": "research",
           "published_date": "2026-10-16",
+          "has_quantified_claim": false
+        }
+      }
+    },
+    "c8886215f95086386870": {
+      "url": "https://www.cas.cn/syky/202610/t20261016_5122361.shtml",
+      "title": "科学家揭示认知灵活性的树突计算机制",
+      "publisher": "中国科学院",
+      "kind": "research",
+      "published_date": "2026-10-19",
+      "topics": [
+        "人工智能",
+        "计算机科学",
+        "科研进展"
+      ],
+      "excerpt": "神经元究竟如何处理信息，让大脑产生灵活决策，一直是未解的谜题。 近期，中国科学院脑科学与智能技术卓越创新中心发现了大脑皮层神经元树突计算参与灵活决策中的认知计算过程，填补了树突计算与高级认知功能之间长期缺乏的证据空白。 大脑里的神经元长着很多像树枝一样的分支，也就是树突。 此前研究发现，顶端树突能激活、汇总信号，但一直没有直接证据证明树突能参与认知过程。 迄今为止，多数研究把神经元视为一个均一的“点”或“简单求和单元”，只通过发放率（放电快慢）来描述它的活动。 [摘录，详见原文]",
+      "updated_at": "2026-10-19T13:42:57+08:00",
+      "first_collected_on": "2026-10-19",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "ai-computer",
+        "event_types": [
+          {
+            "id": "research",
+            "label": "研究与技术进展"
+          },
+          {
+            "id": "product",
+            "label": "产品与模型发布"
+          }
+        ],
+        "primary_event_type": {
+          "id": "research",
+          "label": "研究与技术进展"
+        },
+        "chain_stages": [
+          {
+            "id": "models-algorithms",
+            "label": "模型与算法"
+          },
+          {
+            "id": "system-integration",
+            "label": "系统集成与解决方案"
+          }
+        ],
+        "technology_tags": [],
+        "application_scenarios": [
+          {
+            "id": "research-education",
+            "label": "科研与教育"
+          }
+        ],
+        "entities": [],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cas.cn/syky/202610/t20261016_5122361.shtml",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "research",
+            "object_label": "研究与技术进展"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cas.cn/syky/202610/t20261016_5122361.shtml",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "product",
+            "object_label": "产品与模型发布"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cas.cn/syky/202610/t20261016_5122361.shtml",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "models-algorithms",
+            "object_label": "模型与算法"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cas.cn/syky/202610/t20261016_5122361.shtml",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "system-integration",
+            "object_label": "系统集成与解决方案"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://www.cas.cn/syky/202610/t20261016_5122361.shtml",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "research-education",
+            "object_label": "科研与教育"
+          }
+        ],
+        "evidence": {
+          "level": "研究机构发布",
+          "source_kind": "research",
+          "published_date": "2026-10-19",
           "has_quantified_claim": false
         }
       }
