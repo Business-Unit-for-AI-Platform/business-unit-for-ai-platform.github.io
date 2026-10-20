@@ -8,7 +8,9 @@ title: AI 与计算机资料库
 
 ## 人工智能
 
+- [生成式人工智能赋能原子力显微超分辨成像研究取得进展](items/1acb2ca3bba950dc4d33.html) | 标签：中国科学院 · 计算机科学 · 科研进展
 - [科学家揭示认知灵活性的树突计算机制](items/c8886215f95086386870.html) | 标签：中国科学院 · 计算机科学 · 科研进展
+- [How to continue a GitHub Copilot app session in VS Code](items/5e09805dda87945da37a.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [科研人员提出基于生成式人工智能的跨望远镜图像预测方法](items/cda45bfb7122792149c9.html) | 标签：中国科学院 · 计算机科学 · 科研进展
 - [GitHub Copilot app for Beginners: How to teach Copilot about your codebase](items/23216cfbe10c8c92d859.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [Secret protection must scale with software](items/c6fb2b313984d9d24e98.html) | 标签：GitHub · 软件开发 · 开发者生态

@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "domain": "ai-computer",
+  "date": "2026-10-20",
+  "updated_at": "2026-10-20T13:39:51+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 2,
+    "chain_stages": [
+      {
+        "id": "platform-tools",
+        "label": "平台与开发工具",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "How to continue a GitHub Copilot app session in VS Code",
+            "published_date": "2026-10-19",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+          }
+        ]
+      },
+      {
+        "id": "data-infrastructure",
+        "label": "数据与基础设施",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "生成式人工智能赋能原子力显微超分辨成像研究取得进展",
+            "published_date": "2026-10-20",
+            "url": "https://www.cas.cn/syky/202609/t20260929_5121183.shtml"
+          }
+        ]
+      },
+      {
+        "id": "models-algorithms",
+        "label": "模型与算法",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "生成式人工智能赋能原子力显微超分辨成像研究取得进展",
+            "published_date": "2026-10-20",
+            "url": "https://www.cas.cn/syky/202609/t20260929_5121183.shtml"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "research-education",
+        "label": "科研与教育",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "生成式人工智能赋能原子力显微超分辨成像研究取得进展",
+            "published_date": "2026-10-20",
+            "url": "https://www.cas.cn/syky/202609/t20260929_5121183.shtml"
+          }
+        ]
+      },
+      {
+        "id": "software-development",
+        "label": "软件开发与办公",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "How to continue a GitHub Copilot app session in VS Code",
+            "published_date": "2026-10-19",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "ai-agent",
+        "label": "智能体",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "How to continue a GitHub Copilot app session in VS Code",
+            "published_date": "2026-10-19",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+          }
+        ]
+      },
+      {
+        "id": "generative-ai",
+        "label": "生成式人工智能",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "生成式人工智能赋能原子力显微超分辨成像研究取得进展",
+            "published_date": "2026-10-20",
+            "url": "https://www.cas.cn/syky/202609/t20260929_5121183.shtml"
+          }
+        ]
+      },
+      {
+        "id": "software-engineering",
+        "label": "软件工程与开发者生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "How to continue a GitHub Copilot app session in VS Code",
+            "published_date": "2026-10-19",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "product",
+        "label": "产品与模型发布",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "生成式人工智能赋能原子力显微超分辨成像研究取得进展",
+            "published_date": "2026-10-20",
+            "url": "https://www.cas.cn/syky/202609/t20260929_5121183.shtml"
+          }
+        ]
+      },
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "How to continue a GitHub Copilot app session in VS Code",
+            "published_date": "2026-10-19",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "label": "研究与技术进展",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "生成式人工智能赋能原子力显微超分辨成像研究取得进展",
+            "published_date": "2026-10-20",
+            "url": "https://www.cas.cn/syky/202609/t20260929_5121183.shtml"
+          }
+        ]
+      },
+      {
+        "id": "project",
+        "label": "项目与应用落地",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "生成式人工智能赋能原子力显微超分辨成像研究取得进展",
+            "published_date": "2026-10-20",
+            "url": "https://www.cas.cn/syky/202609/t20260929_5121183.shtml"
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "github",
+        "label": "GitHub",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "How to continue a GitHub Copilot app session in VS Code",
+            "published_date": "2026-10-19",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+          }
+        ]
+      }
+    ]
+  },
+  "daily_summary": {
+    "news_count": 2,
+    "headlines": [
+      {
+        "title": "生成式人工智能赋能原子力显微超分辨成像研究取得进展",
+        "publisher": "中国科学院",
+        "published_date": "2026-10-20",
+        "url": "https://www.cas.cn/syky/202609/t20260929_5121183.shtml",
+        "excerpt": "原子力显微镜（AFM）用于纳米结构成像与物性表征，但逐点扫描方式难以兼顾成像速度与空间分辨率。人工智能超分辨技术虽有望改善该问题，但通用图像重建模型与真实AFM采样过程不匹配，易引入不符合实验观测的伪影。如何提高采集效率并保证结构与物性信息的可靠性，是拓展扫描探针显微动态表征应用亟需解决的重要问题。 近日，中国科学院上海硅酸盐研究所科研团队构建了物理引导生成式超分辨模型StableAFM。该模型将AFM采样物理与潜空间扩散模型相结合，以原始测量数据约束图像重建，从而在快速稀疏扫描条件下复原精细空间信息。 [摘录，详见原文]"
+      },
+      {
+        "title": "How to continue a GitHub Copilot app session in VS Code",
+        "publisher": "GitHub",
+        "published_date": "2026-10-19",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+        "excerpt": "The agent has finished the bulk of your change. Now you want to inspect one implementation detail, adjust a few lines by hand, and run the project locally before you ship it. But the work is sitting in the GitHub Copilot app … and your editor is where you revi [截断摘录，请核对原文]"
+      }
+    ]
+  }
+}
