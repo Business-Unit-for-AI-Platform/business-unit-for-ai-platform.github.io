@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "domain": "ai-computer",
+  "date": "2026-10-21",
+  "updated_at": "2026-10-21T13:42:35+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "platform-tools",
+        "label": "平台与开发工具",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+            "published_date": "2026-10-20",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"
+          }
+        ]
+      },
+      {
+        "id": "compute-hardware",
+        "label": "芯片与算力基础",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+            "published_date": "2026-10-20",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "software-development",
+        "label": "软件开发与办公",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+            "published_date": "2026-10-20",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "ai-agent",
+        "label": "智能体",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+            "published_date": "2026-10-20",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"
+          }
+        ]
+      },
+      {
+        "id": "software-engineering",
+        "label": "软件工程与开发者生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+            "published_date": "2026-10-20",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+            "published_date": "2026-10-20",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "github",
+        "label": "GitHub",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+            "published_date": "2026-10-20",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"
+          }
+        ]
+      }
+    ]
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+        "publisher": "GitHub",
+        "published_date": "2026-10-20",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+        "excerpt": "AI coding tools can generate code quickly, but speed alone does not solve the hardest software engineering problems. Developers still need to provide context, validate results, protect maintainability, and remain accountable for what ships. To learn how experi [截断摘录，请核对原文]"
+      }
+    ]
+  }
+}

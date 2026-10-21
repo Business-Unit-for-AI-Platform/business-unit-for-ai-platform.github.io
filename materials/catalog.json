@@ -126,6 +126,11 @@
       "started_at": "2026-10-20T13:39:40+08:00",
       "finished_at": "2026-10-20T13:39:51+08:00",
       "scan_count": 1
+    },
+    "2026-10-21": {
+      "started_at": "2026-10-21T13:42:26+08:00",
+      "finished_at": "2026-10-21T13:42:35+08:00",
+      "scan_count": 1
     }
   },
   "articles": {
@@ -1155,6 +1160,116 @@
           "level": "企业公开内容",
           "source_kind": "company",
           "published_date": "2026-10-19",
+          "has_quantified_claim": true
+        }
+      }
+    },
+    "806b1f92932cb66421ab": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+      "publisher": "GitHub",
+      "kind": "company",
+      "published_date": "2026-10-20",
+      "topics": [
+        "人工智能",
+        "软件开发",
+        "开发者生态"
+      ],
+      "excerpt": "AI coding tools can generate code quickly, but speed alone does not solve the hardest software engineering problems. Developers still need to provide context, validate results, protect maintainability, and remain accountable for what ships. To learn how experi [截断摘录，请核对原文]",
+      "updated_at": "2026-10-21T13:42:35+08:00",
+      "first_collected_on": "2026-10-21",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "ai-computer",
+        "event_types": [
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "partnership",
+          "label": "合作与生态"
+        },
+        "chain_stages": [
+          {
+            "id": "compute-hardware",
+            "label": "芯片与算力基础"
+          },
+          {
+            "id": "platform-tools",
+            "label": "平台与开发工具"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "ai-agent",
+            "label": "智能体"
+          },
+          {
+            "id": "software-engineering",
+            "label": "软件工程与开发者生态"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "software-development",
+            "label": "软件开发与办公"
+          }
+        ],
+        "entities": [
+          {
+            "id": "github",
+            "label": "GitHub",
+            "entity_type": "platform"
+          }
+        ],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "compute-hardware",
+            "object_label": "芯片与算力基础"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "platform-tools",
+            "object_label": "平台与开发工具"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "software-development",
+            "object_label": "软件开发与办公"
+          },
+          {
+            "subject_type": "entity",
+            "subject_ref": "github",
+            "predicate": "appears_in",
+            "object_type": "article",
+            "object_id": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+            "object_label": "How 3 Java Champions are using GitHub Copilot for increased productivity"
+          }
+        ],
+        "evidence": {
+          "level": "企业公开内容",
+          "source_kind": "company",
+          "published_date": "2026-10-20",
           "has_quantified_claim": true
         }
       }
