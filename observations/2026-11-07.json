@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "domain": "ai-computer",
+  "date": "2026-11-07",
+  "updated_at": "2026-11-07T14:49:55+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "platform-tools",
+        "label": "平台与开发工具",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Beyond code generation: A developer's guide to agentic engineering",
+            "published_date": "2026-11-06",
+            "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "software-development",
+        "label": "软件开发与办公",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Beyond code generation: A developer's guide to agentic engineering",
+            "published_date": "2026-11-06",
+            "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "ai-agent",
+        "label": "智能体",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Beyond code generation: A developer's guide to agentic engineering",
+            "published_date": "2026-11-06",
+            "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
+          }
+        ]
+      },
+      {
+        "id": "software-engineering",
+        "label": "软件工程与开发者生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Beyond code generation: A developer's guide to agentic engineering",
+            "published_date": "2026-11-06",
+            "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Beyond code generation: A developer's guide to agentic engineering",
+            "published_date": "2026-11-06",
+            "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "github",
+        "label": "GitHub",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Beyond code generation: A developer's guide to agentic engineering",
+            "published_date": "2026-11-06",
+            "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
+          }
+        ]
+      }
+    ]
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "Beyond code generation: A developer's guide to agentic engineering",
+        "publisher": "GitHub",
+        "published_date": "2026-11-06",
+        "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+        "excerpt": "This October, GitHub saw more than 1.2 billion commits in one week—over 400% more than a year earlier. This is more commits than GitHub received in all of 2025. Chances are, you’re generating more code than you were a year ago. But ask yourself: do you feel 40 [截断摘录，请核对原文]"
+      }
+    ]
+  }
+}

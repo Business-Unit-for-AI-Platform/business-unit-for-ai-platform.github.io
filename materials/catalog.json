@@ -211,6 +211,11 @@
       "started_at": "2026-11-06T15:39:00+08:00",
       "finished_at": "2026-11-06T15:39:09+08:00",
       "scan_count": 1
+    },
+    "2026-11-07": {
+      "started_at": "2026-11-07T14:49:46+08:00",
+      "finished_at": "2026-11-07T14:49:55+08:00",
+      "scan_count": 1
     }
   },
   "articles": {
@@ -1350,6 +1355,104 @@
           "level": "企业公开内容",
           "source_kind": "company",
           "published_date": "2026-10-20",
+          "has_quantified_claim": true
+        }
+      }
+    },
+    "aff32afb63af01e7ea9a": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "title": "Beyond code generation: A developer's guide to agentic engineering",
+      "publisher": "GitHub",
+      "kind": "company",
+      "published_date": "2026-11-06",
+      "topics": [
+        "人工智能",
+        "软件开发",
+        "开发者生态"
+      ],
+      "excerpt": "This October, GitHub saw more than 1.2 billion commits in one week—over 400% more than a year earlier. This is more commits than GitHub received in all of 2025. Chances are, you’re generating more code than you were a year ago. But ask yourself: do you feel 40 [截断摘录，请核对原文]",
+      "updated_at": "2026-11-07T14:49:55+08:00",
+      "first_collected_on": "2026-11-07",
+      "intelligence": {
+        "schema_version": 1,
+        "domain": "ai-computer",
+        "event_types": [
+          {
+            "id": "partnership",
+            "label": "合作与生态"
+          }
+        ],
+        "primary_event_type": {
+          "id": "partnership",
+          "label": "合作与生态"
+        },
+        "chain_stages": [
+          {
+            "id": "platform-tools",
+            "label": "平台与开发工具"
+          }
+        ],
+        "technology_tags": [
+          {
+            "id": "ai-agent",
+            "label": "智能体"
+          },
+          {
+            "id": "software-engineering",
+            "label": "软件工程与开发者生态"
+          }
+        ],
+        "application_scenarios": [
+          {
+            "id": "software-development",
+            "label": "软件开发与办公"
+          }
+        ],
+        "entities": [
+          {
+            "id": "github",
+            "label": "GitHub",
+            "entity_type": "platform"
+          }
+        ],
+        "relations": [
+          {
+            "subject_type": "article",
+            "subject_ref": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+            "predicate": "reports",
+            "object_type": "event",
+            "object_id": "partnership",
+            "object_label": "合作与生态"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+            "predicate": "maps_to",
+            "object_type": "chain_stage",
+            "object_id": "platform-tools",
+            "object_label": "平台与开发工具"
+          },
+          {
+            "subject_type": "article",
+            "subject_ref": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+            "predicate": "addresses",
+            "object_type": "scenario",
+            "object_id": "software-development",
+            "object_label": "软件开发与办公"
+          },
+          {
+            "subject_type": "entity",
+            "subject_ref": "github",
+            "predicate": "appears_in",
+            "object_type": "article",
+            "object_id": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+            "object_label": "Beyond code generation: A developer's guide to agentic engineering"
+          }
+        ],
+        "evidence": {
+          "level": "企业公开内容",
+          "source_kind": "company",
+          "published_date": "2026-11-06",
           "has_quantified_claim": true
         }
       }
