@@ -8,6 +8,7 @@ title: AI 与计算机资料库
 
 ## 人工智能
 
+- [Build once, run on any agent: A practical guide to agent skills](items/8bc9138e516754eb5478.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [Beyond code generation: A developer's guide to agentic engineering](items/aff32afb63af01e7ea9a.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [How 3 Java Champions are using GitHub Copilot for increased productivity](items/806b1f92932cb66421ab.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [生成式人工智能赋能原子力显微超分辨成像研究取得进展](items/1acb2ca3bba950dc4d33.html) | 标签：中国科学院 · 计算机科学 · 科研进展

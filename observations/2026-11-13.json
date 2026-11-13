@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "domain": "ai-computer",
+  "date": "2026-11-13",
+  "updated_at": "2026-11-13T15:36:22+08:00",
+  "observations": [],
+  "industry_signals": {
+    "schema_version": 1,
+    "article_count": 1,
+    "chain_stages": [
+      {
+        "id": "platform-tools",
+        "label": "平台与开发工具",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Build once, run on any agent: A practical guide to agent skills",
+            "published_date": "2026-11-12",
+            "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/"
+          }
+        ]
+      }
+    ],
+    "application_scenarios": [
+      {
+        "id": "software-development",
+        "label": "软件开发与办公",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Build once, run on any agent: A practical guide to agent skills",
+            "published_date": "2026-11-12",
+            "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/"
+          }
+        ]
+      }
+    ],
+    "technology_tags": [
+      {
+        "id": "ai-agent",
+        "label": "智能体",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Build once, run on any agent: A practical guide to agent skills",
+            "published_date": "2026-11-12",
+            "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/"
+          }
+        ]
+      },
+      {
+        "id": "software-engineering",
+        "label": "软件工程与开发者生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Build once, run on any agent: A practical guide to agent skills",
+            "published_date": "2026-11-12",
+            "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/"
+          }
+        ]
+      }
+    ],
+    "event_types": [
+      {
+        "id": "partnership",
+        "label": "合作与生态",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Build once, run on any agent: A practical guide to agent skills",
+            "published_date": "2026-11-12",
+            "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/"
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "github",
+        "label": "GitHub",
+        "article_count": 1,
+        "examples": [
+          {
+            "title": "Build once, run on any agent: A practical guide to agent skills",
+            "published_date": "2026-11-12",
+            "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/"
+          }
+        ]
+      }
+    ]
+  },
+  "daily_summary": {
+    "news_count": 1,
+    "headlines": [
+      {
+        "title": "Build once, run on any agent: A practical guide to agent skills",
+        "publisher": "GitHub",
+        "published_date": "2026-11-12",
+        "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+        "excerpt": "How many times this week did you re-explain the same task to an agent? How many times did you ask your colleague with deep institutional knowledge how to solve a specific problem? That context shouldn’t be lost in a chat or locked in one person’s head. Agent s [截断摘录，请核对原文]"
+      }
+    ]
+  }
+}
