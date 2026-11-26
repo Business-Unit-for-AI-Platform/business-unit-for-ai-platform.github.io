@@ -8,6 +8,7 @@ title: AI 与计算机资料库
 
 ## 人工智能
 
+- [How to choose the next safe step in application modernization](items/7d5c43e3274406d0b126.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [Build once, run on any agent: A practical guide to agent skills](items/8bc9138e516754eb5478.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [Beyond code generation: A developer's guide to agentic engineering](items/aff32afb63af01e7ea9a.html) | 标签：GitHub · 软件开发 · 开发者生态
 - [How 3 Java Champions are using GitHub Copilot for increased productivity](items/806b1f92932cb66421ab.html) | 标签：GitHub · 软件开发 · 开发者生态
